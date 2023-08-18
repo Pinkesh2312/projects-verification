@@ -1,0 +1,5 @@
+Welcome. You play Fugitive in Game 5000:7. You start on square 42. Make a move, and wait for feedback
+Move 1; Fugitive; Play; Detectives on 16, -1, -1, -1, -1; Fugitive on 42
+Move 2; Fugitive; Play; Detectives on 48, 3, 56, -1, -1; Fugitive on 14
+Move 3; Fugitive; Play; Detectives on 53, 51, 58, -1, -1; Fugitive on 14
+Move 4; Fugitive; Play; Detectives on 61, 49, 34, -1, -1; Fugitive on 30

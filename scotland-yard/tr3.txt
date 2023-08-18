@@ -1,0 +1,4 @@
+Welcome. You play Detective 1 in Game 5000:7. You start on square 0. Make a move, and wait for feedback
+Move 2; Detective 1; Play; Detectives on 48, 3, 56, -1, -1
+Move 3; Detective 1; Play; Detectives on 53, 51, 58, -1, -1; Fugitive on 14
+Move 4; Detective 1; Play; Detectives on 61, 49, 34, -1, -1
